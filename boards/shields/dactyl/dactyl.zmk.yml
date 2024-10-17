@@ -2,7 +2,7 @@ file_format: "1"
 id: dactyl
 name: dactyl
 type: shield
-url: https://github.com/josefadamcik/SofleKeyboard
+url:
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -11,5 +11,5 @@ features:
   - encoder
   - underglow
 siblings:
-  - sofle_left
-  - sofle_right
+  - dactyl_left
+  - dactyl_right
