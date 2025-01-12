@@ -32,8 +32,8 @@
 &kp CAPS    &kp A      &kp S   &kp D     &kp F     &kp G   &kp H      &kp J            &kp K         &kp L           &kp SEMI           &kp SQT
 &kp LSHIFT  &kp Z      &kp X   &kp C     &kp V     &kp B   &kp N      &kp M            &kp COMMA     &kp DOT         &kp FSLH           &kp RBKT
                  &kp LCTRL &kp K_CMENU                                                               &kp MINUS  &kp EQUAL
-                                       &kp LGUI &mo 1 &kp LSHIFT       &kp RET  &kp SPACE  &kp LCTRL
-                                                &kp LALT  &kp RET    &mo 1  &kp LSHIFT
+                                       &kp LALT &kp SPACE &kp UP       &kp ENTER  &kp BSPC  &kp LBKT
+                                                &kp ENTER &kp DOWN     &kp LEFT   &kp RIGHT
             >;
         };
 
